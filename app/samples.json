@@ -1,0 +1,8 @@
+{
+  "A00331": "Normal - correctly classified",
+  "A02455": "AF - correctly classified",
+  "A02463": "Other rhythm - correctly classified",
+  "A02833": "Noisy - correctly classified",
+  "A06479": "Other rhythm - model says Normal (failure case)",
+  "A08296": "AF - model says Other (failure case)"
+}
