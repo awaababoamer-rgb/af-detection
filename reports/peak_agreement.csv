@@ -1,0 +1,5 @@
+label,sensitivity,ppv
+Normal,1.0,0.976
+AF,0.98,0.983
+Other,0.966,0.972
+Noisy,0.613,0.688
